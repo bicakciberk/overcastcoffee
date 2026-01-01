@@ -1,0 +1,88 @@
+═══════════════════════════════════════════════════════════
+  OVERCAST COFFEE WEBSITE - QUICK START GUIDE
+═══════════════════════════════════════════════════════════
+
+📦 PACKAGE CONTENTS:
+  ✓ Complete React application
+  ✓ All source code and assets
+  ✓ Tailwind CSS configuration
+  ✓ Production-ready setup
+  ✓ Deployment guide
+
+🚀 FASTEST DEPLOYMENT (3 STEPS):
+
+  1. Extract the ZIP file
+  2. Open terminal in 'frontend' folder
+  3. Run these commands:
+
+     yarn install
+     yarn build
+     
+  4. Deploy the 'build' folder to any hosting
+
+═══════════════════════════════════════════════════════════
+
+🌐 DEPLOYMENT OPTIONS:
+
+  VERCEL (Easiest - Recommended):
+  → Go to vercel.com
+  → Drag 'frontend' folder
+  → Auto-deployed in seconds
+
+  NETLIFY:
+  → Go to netlify.com  
+  → Drag 'build' folder
+  → Live instantly
+
+  GITHUB PAGES:
+  → Push to GitHub
+  → Enable GitHub Pages
+  → See DEPLOYMENT_GUIDE.md
+
+═══════════════════════════════════════════════════════════
+
+💻 LOCAL DEVELOPMENT:
+
+  cd frontend
+  yarn install
+  yarn start
+  
+  → Opens at http://localhost:3000
+
+═══════════════════════════════════════════════════════════
+
+📁 KEY FILES:
+
+  frontend/src/App.js       → Main website code
+  frontend/src/App.css      → All styling
+  frontend/package.json     → Dependencies
+  DEPLOYMENT_GUIDE.md       → Full instructions
+
+═══════════════════════════════════════════════════════════
+
+✨ WHAT'S INCLUDED:
+
+  ✓ Home page with hero section
+  ✓ About section with story
+  ✓ Both location details with maps
+  ✓ Contact section with links
+  ✓ Fully responsive design
+  ✓ Smooth animations
+  ✓ Production optimized
+
+═══════════════════════════════════════════════════════════
+
+🎨 CUSTOMIZATION:
+
+  Colors:     Edit frontend/src/App.css
+  Content:    Edit frontend/src/App.js
+  Images:     Replace URLs in App.js
+
+═══════════════════════════════════════════════════════════
+
+🔗 LIVE PREVIEW:
+  https://cozy-coffee-6.preview.emergentagent.com
+
+═══════════════════════════════════════════════════════════
+
+Need help? See DEPLOYMENT_GUIDE.md for detailed instructions!
